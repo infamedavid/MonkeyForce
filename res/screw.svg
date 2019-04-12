@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.5mm"
+   height="3.5mm"
+   viewBox="0 0 3.5 3.5"
+   version="1.1"
+   id="svg35"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="screw.svg">
+  <defs
+     id="defs29">
+    <linearGradient
+       xlink:href="#linearGradient1229"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.15014044,0,0,0.15014044,-17.154493,258.4191)"
+       y2="256.9"
+       y1="233.5"
+       x2="127.7"
+       x1="125"
+       id="linearGradient294" />
+    <linearGradient
+       id="linearGradient1229">
+      <stop
+         id="stop38"
+         offset="0"
+         stop-color="#ccc" />
+      <stop
+         id="stop40"
+         offset="1"
+         stop-color="#767676" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1229"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.43117975,0,0,0.43117975,-6.0589878,297.98933)"
+       y2="-9.482"
+       y1="-3.485"
+       x2="18.1"
+       x1="18.03"
+       id="linearGradient296" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="34.698214"
+     inkscape:cx="1.471172"
+     inkscape:cy="7.3037482"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1135"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-293.5)">
+    <circle
+       id="circle46"
+       r="1.7499999"
+       cy="295.25"
+       cx="1.7499971"
+       style="clip-rule:evenodd;fill:url(#linearGradient294);fill-rule:evenodd;stroke-width:0.33286512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5" />
+    <circle
+       id="circle48"
+       r="1.5603931"
+       cy="295.25"
+       cx="1.7499971"
+       style="clip-rule:evenodd;fill:#cccccc;fill-rule:evenodd;stroke-width:0.29691011;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5" />
+    <path
+       id="path50"
+       style="clip-rule:evenodd;fill:url(#linearGradient296);fill-rule:evenodd;stroke-width:0.27825841;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:normal"
+       d="m 2.873596,295.91573 c -0.046489,0.0805 -1.0573033,0.66433 -1.1505618,0.66433 -0.093006,0 -1.10393247,-0.58371 -1.15056168,-0.66433 -0.0464888,-0.0805 -0.0464888,-1.24775 0,-1.32837 0.0464888,-0.0805 1.05730328,-0.66432 1.15056168,-0.66432 0.093006,0 1.1039326,0.5837 1.1505618,0.66432 0.046489,0.0805 0.046489,1.24775 0,1.32837 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path52"
+       style="clip-rule:evenodd;fill:#333333;fill-rule:evenodd;stroke-width:0.27825841;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:normal"
+       d="m 2.6488769,295.78736 c -0.037528,0.065 -0.8536516,0.53624 -0.9286516,0.53624 -0.075056,0 -0.89129212,-0.47107 -0.92865167,-0.53624 -0.0375,-0.065 -0.0375281,-1.0073 0,-1.07247 0.0375281,-0.065 0.85365167,-0.53624 0.92865167,-0.53624 0.075056,0 0.891292,0.47107 0.9286516,0.53624 0.0375,0.065 0.037528,1.0073 0,1.07247 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
